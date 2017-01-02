@@ -1,0 +1,20 @@
+{
+  "name": "activity-cli",
+  "version": "1.0.0",
+  "description": "for html5 activity-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "h5",
+    "html5",
+    "activiy",
+    "command"
+  ],
+  "author": "wujia",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^2.9.0"
+  }
+}
