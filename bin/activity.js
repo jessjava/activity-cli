@@ -1,5 +1,6 @@
-let program = require("commander");
-let package = require("./package.json");
+const program = require("commander");
+const package = require("../package.json");
+
 
 console.log("hello activity")
 
