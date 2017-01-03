@@ -1,6 +1,6 @@
 {
   "name": "activity-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "for html5 activity-cli",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,9 @@
   ],
   "author": "wujia",
   "license": "MIT",
+  "dependencies":{
+    "commander": "^2.9.0"
+  },
   "devDependencies": {
     "commander": "^2.9.0"
   }
