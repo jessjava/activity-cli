@@ -11,7 +11,7 @@
     "url": "https://github.com/jessjava/activity-cli.git"
   },
   "bin":{
-    "activity":"./bin/activiy.js"
+    "ati":"./bin/activity.js"
   },
   "keywords": [
     "h5",
